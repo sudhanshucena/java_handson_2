@@ -12,5 +12,6 @@ public class WhoGetsTheGirl {
 			System.out.println("Michael");
 		else
 			System.out.println("Bruce");
+//		StringBuffer str = "Hello World";
 	}
 }
